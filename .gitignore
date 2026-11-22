@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+.venv/
+/source/models/
+/source/fit.json
+/source/keys.json
+/source/panels.json
+/source/Assembly data.json
+/source/Seam checks.json
+/source/Lock geometry checks.json
+/source/*.png
+/validation/deeper-key-test/models/
+/validation/deeper-key-test/fit.json

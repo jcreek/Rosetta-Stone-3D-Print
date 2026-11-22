@@ -1,0 +1,1 @@
+Install requirements.txt. Run build.py, setup.py, lock_check.py, rear.py and key_diagram.py in order. Run native.py with fit.json, keys.json and panels.json separately to create the native project inputs. The bundled 600 mm grid and engraving profiles are intermediate inputs for the 900 mm bow-tie model.

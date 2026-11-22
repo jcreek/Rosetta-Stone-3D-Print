@@ -1,0 +1,170 @@
+{
+  "validation_summary": {
+    "final_fit_test_sliced": true,
+    "final_key_plate_sliced": true,
+    "production_plates_pending": 11,
+    "full_physical_assembly_verified": false
+  },
+  "total_plates": 12,
+  "plates_sliced_and_colour_checked": 1,
+  "estimates_cover_only_these_plates": true,
+  "estimated_seconds": 9243.4208984375,
+  "filament_grams_including_purge": 48.40865230560303,
+  "filament_grams_in_panels": 47.36751627922058,
+  "plates": [
+    {
+      "plate": 1,
+      "panel": "R1 C1",
+      "bed_bbox_mm": [
+        35.22764015329101,
+        64.7085876,
+        228.77235984933594,
+        191.29141230703124
+      ],
+      "modeled_grooves": 245,
+      "status": "sliced",
+      "warning": "",
+      "estimated_seconds": 9243.4208984375,
+      "total_grams": 48.40865230560303,
+      "grams_in_panels": 47.36751627922058,
+      "filament_changes": 2,
+      "white_model_layers_mm": [
+        3.44,
+        3.56
+      ],
+      "white_above_floor_detected": false
+    },
+    {
+      "plate": 2,
+      "panel": "R1 C2",
+      "bed_bbox_mm": [
+        21.281627147976707,
+        15.5,
+        242.71837946731264,
+        240.5
+      ],
+      "modeled_grooves": 913,
+      "status": "pending"
+    },
+    {
+      "plate": 3,
+      "panel": "R1 C3",
+      "bed_bbox_mm": [
+        35.827475295953434,
+        15.5,
+        228.1725375518128,
+        240.5
+      ],
+      "modeled_grooves": 867,
+      "status": "pending"
+    },
+    {
+      "plate": 4,
+      "panel": "R2 C1",
+      "bed_bbox_mm": [
+        29.829182568969827,
+        15.5,
+        234.17081731933604,
+        240.5
+      ],
+      "modeled_grooves": 1242,
+      "status": "pending"
+    },
+    {
+      "plate": 5,
+      "panel": "R2 C2",
+      "bed_bbox_mm": [
+        21.281626947976683,
+        15.5,
+        242.71837926731263,
+        240.5
+      ],
+      "modeled_grooves": 1487,
+      "status": "pending"
+    },
+    {
+      "plate": 6,
+      "panel": "R2 C3",
+      "bed_bbox_mm": [
+        27.129965295953355,
+        15.5,
+        236.87004708306273,
+        240.5
+      ],
+      "modeled_grooves": 1150,
+      "status": "pending"
+    },
+    {
+      "plate": 7,
+      "panel": "R3 C1",
+      "bed_bbox_mm": [
+        26.530124647949265,
+        15.5,
+        237.46987531933598,
+        240.5
+      ],
+      "modeled_grooves": 1571,
+      "status": "pending"
+    },
+    {
+      "plate": 8,
+      "panel": "R3 C2",
+      "bed_bbox_mm": [
+        21.281627147976764,
+        15.5,
+        242.7183794673127,
+        240.5
+      ],
+      "modeled_grooves": 1756,
+      "status": "pending"
+    },
+    {
+      "plate": 9,
+      "panel": "R3 C3",
+      "bed_bbox_mm": [
+        21.28163779595337,
+        15.5,
+        242.71837485650025,
+        240.5
+      ],
+      "modeled_grooves": 1662,
+      "status": "pending"
+    },
+    {
+      "plate": 10,
+      "panel": "R4 C1",
+      "bed_bbox_mm": [
+        21.281624000000022,
+        15.5,
+        242.71837631933596,
+        240.5
+      ],
+      "modeled_grooves": 1594,
+      "status": "pending"
+    },
+    {
+      "plate": 11,
+      "panel": "R4 C2",
+      "bed_bbox_mm": [
+        21.281627147976764,
+        16.524658883087113,
+        242.7183794673127,
+        239.47534199999996
+      ],
+      "modeled_grooves": 1664,
+      "status": "pending"
+    },
+    {
+      "plate": 12,
+      "panel": "R4 C3",
+      "bed_bbox_mm": [
+        21.28163729595343,
+        25.24675066320799,
+        242.7183743565003,
+        230.75324899999998
+      ],
+      "modeled_grooves": 1127,
+      "status": "pending"
+    }
+  ]
+}

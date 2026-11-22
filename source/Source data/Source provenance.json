@@ -1,0 +1,9 @@
+{
+  "file": "sources/digitalepigraphy/results/Depthmap_of_Rosetta_Stone_clean.png",
+  "bytes": 44463593,
+  "sha256": "31a9b89c7bd1388b4ef592ea9baa5f51306f517cf66db4c8506fbc768367e3d5",
+  "github_blob_sha1": "524ad780221baa281d6033634a1cde5229b81c37",
+  "matches_repository_tree": true,
+  "repository_tree_sha": "f71fd09be0ba51ec7ee9e4db109be56403908782",
+  "source_url": "https://github.com/digitalepigraphy/RosettaStone/blob/main/results/Depthmap_of_Rosetta_Stone_clean.png"
+}

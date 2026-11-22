@@ -1,0 +1,14 @@
+{
+  "nominal_clearance_per_side_mm": 0.16,
+  "key_size_mm": [
+    27.4,
+    7.799999999999999,
+    1.44
+  ],
+  "max_simulated_centered_seam_opening_mm": 0.336,
+  "physical_fit_verified": false,
+  "pocket_depth_mm": 1.56,
+  "key_count": 34,
+  "selected_fit_test": "B (front row), preferred by user after physical comparison",
+  "full_panel_fit_verified": false
+}

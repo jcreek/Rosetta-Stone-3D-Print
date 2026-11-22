@@ -1,0 +1,140 @@
+{
+    "error_string": "Success.",
+    "layer_height": 0.11999999731779099,
+    "peak_rss_mb": 157.109375,
+    "plate_index": 0,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 37.40342712402344,
+                "Bridge": 51.29084777832031,
+                "Custom": 364.14947509765625,
+                "Flush": 247.37417602539063,
+                "Gap infill": 6.67742919921875,
+                "Inner wall": 144.96630859375,
+                "Internal solid infill": 198.37628173828125,
+                "Outer wall": 221.6931610107422,
+                "Overhang wall": 0.3695995807647705,
+                "Sparse infill": 64.01163482666016,
+                "Top surface": 47.059410095214844,
+                "Travel": 172.18743896484375,
+                "Undefined": 156.9115753173828
+            },
+            "filament_change_times": 2,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 2.9316136837005615,
+                    "total_used_g": 3.284777879714966
+                },
+                {
+                    "filament_id": "GFL99",
+                    "id": 2,
+                    "main_used_g": 0.3116099536418915,
+                    "total_used_g": 0.9995772838592529
+                }
+            ],
+            "id": 1,
+            "layer_filament_change": 0,
+            "main_predication": 915.041748046875,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 18.0,
+                        "height": 5.119999885559082,
+                        "width": 21.0,
+                        "x": 77.5,
+                        "y": 126.0,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "Fit 1 - R2 C1",
+                    "triangle_count": 5120
+                },
+                {
+                    "bbox": {
+                        "depth": 18.0,
+                        "height": 5.119999885559082,
+                        "width": 21.0,
+                        "x": 132.5,
+                        "y": 126.0,
+                        "z": 0.0
+                    },
+                    "id": 9,
+                    "name": "Fit 2 - R2 C2",
+                    "triangle_count": 6224
+                },
+                {
+                    "bbox": {
+                        "depth": 7.800001621246338,
+                        "height": 1.440000057220459,
+                        "width": 27.39999771118164,
+                        "x": 101.30000305175781,
+                        "y": 96.0999984741211,
+                        "z": 0.0
+                    },
+                    "id": 13,
+                    "name": "Alignment key",
+                    "triangle_count": 220
+                }
+            ],
+            "times": {
+                "conflict_check_time": 11,
+                "detect_overhangs_time": 7,
+                "export_gcode_time": 2026,
+                "flush_plan_time": 0,
+                "generate_support_material_time": 37,
+                "infill_generate_time": 87,
+                "infill_time": 290,
+                "ironing_time": 0,
+                "make_perimeters_time": 403,
+                "multifilament_segment_2d_time": 0,
+                "other_slice_time": 1,
+                "prepare_infill_time": 203,
+                "region_split_time": 1,
+                "skirt_brim_time": 0,
+                "slice_layers_time": 128,
+                "sliced_time": 2816,
+                "sliced_time_with_cache": 2026,
+                "support_detect_time": 0,
+                "support_interface_time": 0,
+                "support_normal_generate_time": 0,
+                "support_toolpath_time": 0,
+                "support_tree_generate_time": 0,
+                "toolpath_time": 33,
+                "wall_time": 274,
+                "wipe_tower_time": 2
+            },
+            "total_predication": 1540.2589111328125,
+            "triangle_count": 11564,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 15.0,
+    "times": {
+        "export_3mf_time": 121,
+        "export_slicedata_time": 0,
+        "export_time": 641,
+        "import_time": 60,
+        "load_slicedata_time": 0,
+        "prepare_time": 63
+    },
+    "upward_compatible_machine": [
+        "Bambu Lab P1P 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1E 0.4 nozzle",
+        "Bambu Lab A1 0.4 nozzle",
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+    ],
+    "wall_loops": 2
+}

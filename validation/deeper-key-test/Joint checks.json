@@ -1,0 +1,17 @@
+{
+  "panel_thickness_mm": 5.12,
+  "floor_height_mm": 3.56,
+  "pocket_depth_mm": 1.56,
+  "key_thickness_mm": 1.44,
+  "sample_seam": "R2 C1 / C2",
+  "variants": {
+    "A": {
+      "nominal_clearance_per_side_mm": 0.1,
+      "nominal_xy_seam_play_mm": 0.21
+    },
+    "B": {
+      "nominal_clearance_per_side_mm": 0.16,
+      "nominal_xy_seam_play_mm": 0.336
+    }
+  }
+}

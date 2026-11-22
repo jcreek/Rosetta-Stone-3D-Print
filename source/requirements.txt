@@ -1,0 +1,8 @@
+numpy
+scipy
+shapely
+scikit-image
+trimesh
+mapbox-earcut
+manifold3d
+pillow
